@@ -30,5 +30,63 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+  "plans": [
+    {
+      "id": 111,
+      "category": "GROWTH AND VALUE FUNDS",
+      "title": "Boyz Choppers Growth Plan",
+      "shortDescription":"Focus on tech and companies whose stock is undervalued by the market."
+      "description": "Focus on tech shares and companies whose stock is undervalued by the market.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "March 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 1.5,
+      "minimumUnits": 500,
+      "maximumUnits": 20000
+    },
+    {
+      "id": 112,
+      "category": "GROWTH AND VALUE FUNDS",
+      "title": "Boyz Choppers Growth Premium Plan",
+      "shortDescription":"Premium fund pool with focus on tech and companies whose stock is undervalued by the market."
+      "description": "Premium fund pool with focus on tech shares and companies whose stock is undervalued by the market.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "Jan 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 5,
+      "minimumUnits": 1000,
+      "maximumUnits": 10000
+    },
+    {
+      "id": 113,
+      "category": "GROWTH AND VALUE FUNDS",
+      "title": "Low Entry Growth Plan",
+      "shortDescription":"Low entry fund pool with focus on tech and companies whose stock is undervalued by the market."
+      "description": "Low entry fund pool with focus on tech shares and companies whose stock is undervalued by the market.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "Jan 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 1,
+      "minimumUnits": 250,
+      "maximumUnits": 10000
+    },
+    {
+      "id": 113,
+      "category": "GROWTH AND VALUE FUNDS",
+      "title": "Low Entry Growth Plan II",
+      "shortDescription":"Low entry fund pool with focus on tech and companies whose stock is undervalued by the market."
+      "description": "Low entry fund pool with focus on tech shares and companies whose stock is undervalued by the market.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "Jan 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 1.5,
+      "minimumUnits": 250,
+      "maximumUnits": 10000
+    }
   ]
 }
