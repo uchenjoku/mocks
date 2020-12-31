@@ -1,4 +1,29 @@
 {
+  "holderSummary":[
+    {}
+  ],
+  "holdings":[
+    {
+      "offerId":12,
+      "planId": 111,
+      "planName": "Boyz Choppers Growth Plan",
+      "allocationDate": "07/06/2020",
+      "maturityDate": "07/06/2022",
+      "allocatdUnits": 300,
+      "purchaseUnitPrice": 1.5,
+      "holder": "email@uchenjoku.com"
+    },
+    {
+      "offerId":13,
+      "planId": 111,
+      "planName": "Boyz Choppers Growth Plan",
+      "allocationDate": "08/06/2020",
+      "maturityDate": "07/06/2022",
+      "allocatdUnits": 150,
+      "purchaseUnitPrice": 1.5,
+      "holder": "email@uchenjoku.com"
+    }
+  ],
   "events": [
     {
       "id": 123,
@@ -91,6 +116,20 @@
      {
       "id": 115,
       "category": "BALANCED FUNDS",
+      "title": "Low Entry, baloanced funds",
+      "shortDescription":"Low entry fund pool with focus on growth and dvidends.",
+      "description": "Low entry fund pool with a balance of growth and revunue.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "Jan 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 1.5,
+      "minimumUnits": 250,
+      "maximumUnits": 10000
+    },
+    {
+      "id": 116,
+      "category": "BALANCED FUNDS II",
       "title": "Low Entry, baloanced funds",
       "shortDescription":"Low entry fund pool with focus on growth and dvidends.",
       "description": "Low entry fund pool with a balance of growth and revunue.",
