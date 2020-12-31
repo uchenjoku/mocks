@@ -28,6 +28,7 @@
           "maturityDate": "07/06/2022",
           "allocatedUnits": 300,
           "purchaseUnitPrice": 1.5,
+          "unitPrice": 2,
           "holder": "email@uchenjoku.com"
         },
         {
@@ -38,6 +39,7 @@
           "maturityDate": "07/06/2022",
           "allocatedUnits": 150,
           "purchaseUnitPrice": 1.5,
+          "unitPrice": 2,
           "holder": "email@uchenjoku.com"
         }
       ],
@@ -68,7 +70,8 @@
       "maturityDate": "07/06/2022",
       "allocatedUnits": 300,
       "purchaseUnitPrice": 1.5,
-      "holder": "email@uchenjoku.com"
+      "holder": "email@uchenjoku.com",
+      "unitPrice": 2
     },
     {
       "offerId":13,
@@ -78,7 +81,8 @@
       "maturityDate": "07/06/2022",
       "allocatedUnits": 150,
       "purchaseUnitPrice": 1.5,
-      "holder": "email@uchenjoku.com"
+      "holder": "email@uchenjoku.com",
+      "unitPrice": 2
     }
   ],
   "events": [
