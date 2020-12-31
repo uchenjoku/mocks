@@ -87,6 +87,20 @@
       "unitPrice": 1.5,
       "minimumUnits": 250,
       "maximumUnits": 10000
+    },
+     {
+      "id": 115,
+      "category": "BALANCED FUNDS",
+      "title": "Low Entry, baloanced funds",
+      "shortDescription":"Low entry fund pool with focus on growth and dvidends.",
+      "description": "Low entry fund pool with a balance of growth and revunue.",
+      "issuerName": "Boyz Chopping PTY",
+      "offerCloseDate": "Jan 14, 2021",
+      "time": "10:00",
+      "maturityPeriod": "24",
+      "unitPrice": 1.5,
+      "minimumUnits": 250,
+      "maximumUnits": 10000
     }
   ]
 }
