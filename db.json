@@ -1,6 +1,46 @@
 {
+  "watchlist":[
+    {
+      "title" : "Boyz Choppers Growth Premium Plan",
+      "description": "Premium fund pool with focus on tech shares and companies whose stock is undervalued by the market.",
+      "offerCloseDate":"March 14, 2021",
+      "issuerName":"Boyz Chopping PTY",
+      "planId": 112
+    },
+    {
+      "title" : "Low Entry Growth Plan",
+      "description": "Low entry fund pool with a balance of growth and revunue.",
+      "offerCloseDate":"March 14, 2021",
+      "issuerName":"Boyz Chopping PTY",
+      "planId": 113
+    }
+  ],
   "holderSummary":[
-    {}
+    {
+      "holder":"email@uchenjoku.com",
+      "holdings":[
+        {
+          "offerId":12,
+          "planId": 111,
+          "planName": "Boyz Choppers Growth Plan",
+          "allocationDate": "07/06/2020",
+          "maturityDate": "07/06/2022",
+          "allocatdUnits": 300,
+          "purchaseUnitPrice": 1.5,
+          "holder": "email@uchenjoku.com"
+        },
+        {
+          "offerId":13,
+          "planId": 111,
+          "planName": "Boyz Choppers Growth Plan",
+          "allocationDate": "08/06/2020",
+          "maturityDate": "07/06/2022",
+          "allocatdUnits": 150,
+          "purchaseUnitPrice": 1.5,
+          "holder": "email@uchenjoku.com"
+        }
+      ]
+    }
   ],
   "holdings":[
     {
