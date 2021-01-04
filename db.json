@@ -67,6 +67,7 @@
   ],
   "holdings":[
     {
+      "id":12,
       "offerId":12,
       "planId": 111,
       "planName": "Boyz Choppers Growth Plan",
@@ -79,6 +80,7 @@
       "unitPrice": 2
     },
     {
+      "id":13,
       "offerId":13,
       "planId": 113,
       "planName": "Low Entry Growth Plan",
