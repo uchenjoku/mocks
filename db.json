@@ -24,23 +24,25 @@
           "offerId":12,
           "planId": 111,
           "planName": "Boyz Choppers Growth Plan",
+          "description": "Focus on tech shares and companies whose stock is undervalued by the market.",
           "allocationDate": "07/06/2020",
           "maturityDate": "07/06/2022",
           "allocatedUnits": 300,
           "purchaseUnitPrice": 1.5,
-          "unitPrice": 2,
-          "holder": "email@uchenjoku.com"
+          "holder": "email@uchenjoku.com",
+          "unitPrice": 2
         },
         {
           "offerId":13,
-          "planId": 111,
+          "planId": 113,
           "planName": "Low Entry Growth Plan",
+          "description": "Low entry fund pool with focus on tech shares and companies whose stock is undervalued by the market.",
           "allocationDate": "08/06/2020",
           "maturityDate": "07/06/2022",
           "allocatedUnits": 150,
-          "purchaseUnitPrice": 1.5,
-          "unitPrice": 2,
-          "holder": "email@uchenjoku.com"
+          "purchaseUnitPrice": 1,
+          "holder": "email@uchenjoku.com",
+          "unitPrice": 2
         }
       ],
       "watchlist":[
